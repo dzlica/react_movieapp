@@ -1,0 +1,28 @@
+* {
+    color: #554700;
+}
+
+.siteTop {
+    align-items: center;
+}
+
+.siteTop > h1 {
+    background-color: #D4C36A;
+    width: 1070px;
+    text-align: center;
+    font-size: 55px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.body {
+    background-color: #AA9739;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 1070px;
+}
